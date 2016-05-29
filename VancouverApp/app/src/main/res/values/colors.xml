@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00897B</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    <color name="colorAccent">#1DE9B6</color>
+    <color name="text_background">#90000000</color>
+    <color name="colorSecondary">#ffffff</color>
+    <color name="colorFAB1">#2196F3</color>
+    <color name="colorFAB2">#E040FB</color>
+    <color name="colorFAB3">#ff4081</color>
+    <color name="colorFAB4">#FFEB3B</color>
+    <color name="attraction">#fbf540</color>
+    <color name="weatherBig">#26A69A</color>
+
+</resources>

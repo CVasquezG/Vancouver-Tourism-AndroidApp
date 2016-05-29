@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center_vertical"
+    android:clipToPadding="false"
+
+
+    android:foreground="?android:selectableItemBackground">
+    <!-- android:background="@color/colorSecondary" -->
+
+
+    <!-- the innner view - provides the white rectangle -->
+    <RelativeLayout
+
+        android:layout_width="fill_parent"
+
+        android:layout_height="80dp"
+        android:id="@+id/relativeLayoutWeather2"
+
+        >
+
+        <!-- the icon view -->
+        <ImageView android:id="@+id/weatherIcon"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:padding="5dp"
+
+            android:scaleType="fitXY"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:transitionName="image"
+
+            android:src="@android:drawable/btn_star_big_on" />
+
+        <!-- the container view for the title and description -->
+        <RelativeLayout android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/weatherIcon"
+            android:layout_centerVertical="true"
+            android:id="@+id/relativeLayout"
+            >
+
+            <!-- the title view -->
+            <TextView android:id="@+id/weatherTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="@android:style/TextAppearance.Medium"
+                android:text="Weather Title"
+
+                style="?android:textAppearanceMedium"
+
+                android:textColor="#000000" />
+
+            <!-- the description view -->
+            <TextView android:id="@+id/weatherDescription"
+                android:layout_below="@id/weatherTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="@android:style/TextAppearance.Small"
+                android:text="Weather description"
+
+                style="?android:textAppearanceMedium"
+                />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Temperature"
+            android:id="@+id/weatherTemperature"
+            android:paddingRight="5dp"
+
+            android:layout_alignParentEnd="true"
+            android:textColor="@color/abc_search_url_text_pressed"
+            android:typeface="normal"
+            android:textSize="20dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentTop="true"
+            android:gravity="center_vertical" />
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

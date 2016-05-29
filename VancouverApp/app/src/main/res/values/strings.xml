@@ -1,0 +1,187 @@
+<resources>
+    <string name="app_name">Vancouver Tourism</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Enable Location</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="transition_string">hello</string>
+
+
+    <string name="open_location_settings">open location settings</string>
+    <string name="Cancel">cancel</string>
+    <string name="spinner_prompt">Enter temp type</string>
+
+
+    <string-array name="temp_converter">
+        <item>C</item>
+        <item>F</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_scrolling_activity_attractions">ScrollingActivityAttractions</string>
+    <string name="warehouse">
+    El Furniture Warehouse is a cheap bar/restaurant in Vancouver. There are three different locations, one in Whistler, one on West Hastings, and one in downtown Vancouver on Granville Street.
+        \n \n
+The Warehouse is known for it’s cheap food, offering all meals for $4.95, and it’s energetic environment. It is designed to be sporty, with different skateboards and snowboards around the pub, and it plays older rap and rnb music.
+ \n \n
+The food is cheap, and ranges from classic burgers, to pasta, to tacos.
+\n \n\n \n
+    </string>
+    <string name="exp">
+The EXP bar is a unique experience. It is a bar that’s based around gaming, offering different food items inspired by the gaming universe.
+ \n \n
+The pub offers many different events that are related to gaming, like tournaments and hangouts. The food is fairly cheap, and is typical bar food with a gaming theme. The drinks are also named after different gaming characters and themes.
+   \n \n\n \n </string>
+    <string name="wings">
+Wings is a restaurant type of a bar. Although they have a bar, and sell alcohol, the main focus is on the food. Wings, as the name suggests, is famous for it’s wings. There is a large variety of flavours, from spicy and wet, to dry and mild.
+ \n \n
+The restaurant is known for its “Bobby Wing”. This is a wing that is said to be so spicy that you need to sign a waiver form in order to eat one.
+ \n \n
+The service is always very kind, and at the heart of Vancouver this is a great thing to see.
+   \n \n\n \n </string>
+    <string name="doolins">
+Doolin’s is a great place to meet some friends for a beer. This Irish Pub constantly has live music, and a bustling atmosphere. Even though this is a good pub for a few friends to share stories, this all changes during the weekend.
+ \n \n
+When the weekend hits, Doolin’s turns into a energetic place for younger people to spend their night. The music gets loud, and people are up and about moving and dancing.
+ \n \n
+The food here is what you would expect for a pub, consisting of things like burgers, wings, and chicken strips. With the reasonable prices, this is a good place to grab some food during a night out.
+
+   \n \n\n \n </string>
+    <string name="roxy">
+Roxy Burger is located on Granville street, making it a hot spot during the weekends. It is surrounded by nightclubs, and a live environment, so if you head there during the weekend expect to be surrounded by a lot of people, all looking to have a good night.
+ \n \n
+The food at Roxy Burger is great if you’re looking for a burger to eat, or some chicken strips to munch on. It definitely will fill you up, and it tastes like classic pub food.
+ \n \n
+There’s always music at Roxy’s, and no shortage of live events going on throughout the week.
+   \n \n\n \n </string>
+    <string name="sip">
+The Sip Lounge is a truly unique bar experience. It is a casual, yet fancy lounge in downtown Vancouver, and puts a few spins on the typical dining experience.
+ \n \n
+While ordering at the Sip Lounge, you are able to interact directly with the chef that’s preparing your food. This let’s you have the maximum control over your order. It’s also just a great experience seeing your food being prepared right in front of you.
+ \n \n
+Although the food is a little more expensive than a regular pub, the control and quality of the food truly makes it worth it.
+ \n \n
+The atmosphere at the Sip Lounge makes you feel like you’re unique, and important, and it’s a great place for a bigger group of people.
+
+   \n \n\n \n </string>
+    <string name="roadhouse">
+The Roadhouse is a newer pub in downtown vancouver. It is a country bar, and plays it’s fair share of new and old country music.
+ \n \n
+During the week, this is a great place to sit down and have a burger and a beer, during the weekend on the other hand, it turns into a loud and lively dance bar. The DJ plays newer country on weekend nights, and gets people moving around more than sitting for a meal.
+ \n \n
+The Roadhouse is a big destination for after parties for country concerts that happen in Vancouver, and is often visited by local artists.
+   \n \n\n \n </string>
+    <string name="portside">
+The Portside is one of the most friendly pubs you’ll find in Vancouver. Located in the beautiful area of Vancouver known as Gastown, Portside is known for its Eastern Canadian atmosphere. The interior is designed with a lot of wood, rope, and other sea related objects. The staff is always friendly, and willing to help whenever needed.
+ \n \n
+The food at Portside is really catered towards Eastern Canada, with a lot of seafood, and maritime delicacies. It is all delicious, and not as expensive as some other bars in Vancouver.
+ \n \n
+During the weekend it can be very busy, but during the week it has a steady flow of people coming in to enjoy the food and the atmosphere.
+   \n \n\n \n </string>
+    <string name="pint">
+The Pint is a classic sports bar with locations all over Canada. The vancouver branch is located in Gastown Vancouver, and is geared towards sports fans.
+ \n \n
+ It’s never empty, and has a lot of different activities and such during the week. There are a lot of tv’s in the bar that are showing the games, especially Canucks games, and they often run deals for when they are doing well.
+ \n \n
+The food is typical for pub food, and is a decent price for what you get.
+  \n \n\n \n  </string>
+    <string name="steamworks">
+Steamworks is another gastown bar, known for their beer that’s brewed in house. This beer can be found in many local liquor stores, and comes in a variety of types, from lagers, to ipa’s. The bar is also known for it’s seasonal brews, including gingerbread and dark chocolate ale’s.
+ \n \n
+While dining, if you are downstairs, you’re able to see where all the beer is brewed, and it’s a great environment for a beer and some great food. The food is priced like a restaurant would be, and it is worth every penny spent.
+ \n \n
+The bar includes a few pool tables, which always have people using them. It is a great place for a birthday, or a group get together.
+  \n \n\n \n  </string>
+
+    <string name="capilano">
+The Capilano Suspension Bridge is a simple suspension bridge crossing the Capilano River in the District of North Vancouver, British Columbia, Canada. The current bridge is 140 metres (460 ft)[1] long and 70 metres (230 ft) above the river. It is part of a private facility, with an admission fee, and draws over 800,000 visitors.
+\n \nThe bridge was originally built in 1889 by George Grant Mackay, a Scottish civil engineer and park commissioner for Vancouver. It was originally made of hemp ropes with a deck of cedar planks, and was replaced with a wire cable bridge in 1903. In 1910 Edward Mahon purchased the Capilano Suspension Bridge. "Mac" MacEachran purchased the Bridge from Mahon in 1935 and invited local natives to place their totem poles in the park, adding a native theme. In 1945, he sold the bridge to Henri Aubeneau.
+\n \nThe bridge was completely rebuilt in 1956.[2]
+\n \nThe park was sold to Nancy Stibbard, the current owner, in 1983. Annual attendance has since increased, and in May 2004, Treetops Adventures was opened. This new attraction consists of seven footbridges suspended between old-growth Douglas Fir trees on the west side of the canyon, forming a walkway up to 30 metres (98 ft) above the forest floor.
+   \n \n\n \n </string>
+    <string name="aqua">
+The Vancouver Aquarium (officially the Vancouver Aquarium Marine Science Centre) is a public aquarium located in Stanley Park in Vancouver, British Columbia, Canada. In addition to being a major tourist attraction for Vancouver, the aquarium is a centre for marine research, conservation and marine animal rehabilitation.
+\n \nThe Vancouver Aquarium was one of the first facilities to incorporate professional naturalists into the galleries to interpret animal behaviours.[6] Prior to this, at the London Zoo Fish House, naturalists James S. Bowerbank, Ray Lankester, David W. Mitchell and Philip H. Gosse (the creator of the word aquarium)[7] had regularly held "open house" events, but the Vancouver Aquarium was the first to employ educational naturalists on a full-time basis. Aquarium research projects extend worldwide, and include marine mammal rescue and rehabilitation.
+   \n \n\n \n </string>
+    <string name="horse">
+Hop on board one of the old-fashioned vehicles and meander through the natural beauty of Stanley Park as you relax and experience a Storytelling Adventure! Fully narrated, one hour tours depart every 20-30 minutes daily, rain or shine, from the horse-drawn tour kiosk at the Coal Harbour parking lot beside the information booth on Park Drive, just off the Georgia Street entrance to Stanley Park. This fun and family friendly tour includes a stop at the world famous Totem Poles and features the Rose Garden, the Lions Gate Bridge, a coastal Red-Cedar forest, Deadman\'s Island, the Girl in a Wetsuit Statue and the Empress of Japan Figurehead. Operates March 15 - October 31st. Wheelchair accessible. All carriages have roofs and lap blankets are provided.
+   \n \n\n \n </string>
+    <string name="cruise">
+    This is a cruise.
+   \n \n\n \n </string>
+    <string name="fly">
+FlyOver Canada is an amazing virtual flight ride in which you will \“take off\” into a huge domed screen to enjoy a breathtaking flight across Canada’s most spectacular sights. The motion seating and special effects including wind, scents and mist combine to make you feel as if you truly are flying!
+\n \nThe complete FlyOver Canada experience lasts approximately 25 minutes. Your journey begins with UpLift\!, an inspiring audio-visual pre-show that gets you ready for the flight. Next, you will head to the boarding zone, where our flight guides will prepare you to embark on the Ultimate Flying Ride. The ride takes approximately 8 minutes.
+   \n \n\n \n </string>
+    <string name="harbour">
+Harbour Centre is a notable skyscraper in the central business district of Downtown Vancouver, British Columbia, Canada. The \"Lookout\" tower atop the office building makes it one of the tallest structures in Vancouver and a prominent landmark on the city\'s skyline. With its 360-degree viewing deck, it also serves as a tourist attraction with the Top of Vancouver Revolving Restaurant, offering a physically unobstructed view of the city. During the dot-com boom of the 1990s, it served as the headquarters for several up and coming tech firms, including Stormix Technologies, NetNation and others. Harbour Centre opened in 1977.
+\n \nDesigned by WZMH Architects, the building is listed as being 28 stories tall, though the tower/observation deck extends above the 28 office floors (claimed to be approximately 44 stories in total). There is some disagreement as to the building\'s height. According to the Vancouver Lookout\'s website the observation deck is 168 m (551 ft) above the \'street level\'. The CTBUH however lists the buildings architectural height as actually being 147 m (482 ft).[1] Furthermore Skyscraperpage lists the buildings height to the roof as being only 139.6 m (458 ft).[2] This is stated to be the height from the Hastings Street entrance while the height from the back entrance on Cordova Street is 146 m (479 ft). It also lists the buildings pinnacle height to the tip of the antenna as being 170.1 m (558 ft).[2]
+    </string>
+    <string name="garden">
+The Dr. Sun Yat-Sen Classical Chinese Garden is the first Chinese or \"scholars\" garden built outside of China, and is located in Chinatown in Vancouver, British Columbia, Canada. It is located at 578 Carrall Street and consists of a freely accessible public park and a garden with an admission fee. The mandate of the garden is to “maintain and enhance the bridge of understanding between Chinese and western cultures, promote Chinese culture generally and be an integral part of the local community.”
+\n \nThe garden was built in 1985–1986. The outer park was designed by architects Joe Wai and Donald Vaughan, while the inner garden was conceived by Wang Zu-Xin as the chief architect, with the help of experts from the Landscape Architecture Company of Suzhou, China. Funding for the project came from the Chinese and Canadian governments, the local Chinese community, and other public and private sector sources, and it opened on April 24, 1986, in time for Expo 86.
+
+  \n \n\n \n  </string>
+    <string name="vag">
+The Vancouver Art Gallery (VAG) is the fifth-largest art gallery in Canada and the largest in Western Canada. It is located at 750 Hornby Street in Vancouver, British Columbia. Its permanent collection of about 11,000 artworks includes more than 200 major works by Emily Carr, the Group of Seven, Jeff Wall, Harry Callahan and Marc Chagall.
+\n \nThe Vancouver Art Gallery was founded in 1931 and had its first home at 1145 West Georgia Street. In 1983 it moved to the Hornby Street location, the former provincial courthouse. It was renovated at a cost of $20 million by architect Arthur Erickson, which completed his modern three city-block Robson Square complex. The Gallery connects to the rest of the complex via an underground passage below Robson Street to an outdoor plaza, restaurants, the University of British Columbia\'s downtown satellite campus, government offices, and the new Law Courts at the southern end.
+\n \nThe Gallery has 41,400 square feet (3,850 m2) of exhibition space and more than 10,000 works in its collection, most notably its Emily Carr collection. It has also amassed a significant collection of photographs. In addition to exhibitions of its own collection, the Gallery regularly hosts touring exhibitions. The Gallery also regularly features a variety of public programmes and lectures.
+   \n \n\n \n </string>
+    <string name="science">
+Science World at Telus World of Science, Vancouver is a science centre run by a not-for-profit organization in Vancouver, British Columbia, Canada. It is located at the end of False Creek, and features many permanent interactive exhibits and displays, as well as areas with varying topics throughout the years.
+\n \nThe building\'s former name, Science World, is still the name of the organization. The building\'s name change to the Telus World of Science became official on July 20, 2005 following a $9-million donation to the museum from Telus. The official name of the science centre was subsequently changed to "Telus World of Science", although it is still routinely referred to as "Science World" by the public. Prior to the building being handed over to Science World by the City, it was referred to as Expo Centre during Expo 86. When Science World is operating in of the dome, it is referred to as Science World at Telus World of Science, and when it is out in the community it is simply Science World.
+  \n \n\n \n  </string>
+    <string name="grouse">
+Grouse Mountain is one of the North Shore Mountains of the Pacific Ranges in the District Municipality of North Vancouver, British Columbia, Canada. Exceeding 1,200 m (4,000 feet) in altitude at its peak, is the site of an alpine ski area, Grouse Mountain Resort, which in the winter season overlooks Greater Vancouver with four chairlifts servicing 26 runs. In the summer, Grouse Mountain Resort features lumberjack shows, a birds of prey wildlife demonstration, a scenic chairlift ride, and a 2.9 km (1.8 mi.) hiking trail known as the Grouse Grind, as well as helicopter sightseeing. Year-round operations include a 100-seat mountaintop theatre and a wildlife refuge. Public access to the mountain top is by a Swiss Garaventa aerial tramway, or the Grouse Grind hiking trail (Open for hiking May-October.)
+  \n \n\n \n  </string>
+    <string name="stanley">
+Stanley Park is a 1,001-acre public park that borders the downtown of Vancouver in British Columbia, Canada and is almost entirely surrounded by waters of Vancouver Harbour and English Bay.
+\n \nThe park has a long history and was one of the first areas to be explored in the city. The land was originally used byindigenous peoples for thousands of years before British Columbia was colonized by the British during the 1858 Fraser Canyon Gold Rush. For many years after colonization, the future park with its abundant resources would also be home to nonaboriginal settlers. The land was later turned into Vancouver\'s first park when the city incorporated in 1886. It was named after Lord Stanley, a British politician who had recently been appointed governor general.
+\n \nUnlike other large urban parks, Stanley Park is not the creation of a landscape architect, but rather the evolution of a forest and urban space over many years.] Most of the manmade structures we see today were built between 1911 and 1937 under the influence of then superintendent W.S. Rawlings. Additional attractions, such as a polar bear exhibit, aquarium, and miniature train, were added in the post-war period.
+  \n \n\n \n  </string>
+    <string name="queen">
+Queen Elizabeth Park is a 130-acre municipal park located in Vancouver, British Columbia, Canada, on Little Mountain (elevation approximately 152 metres or 500 feet above sea level). Its surface was scarred at the turn of the twentieth century when it was quarried for its rock, which served to build Vancouver\'s first roadways.
+\n \nIn 1930, the park\'s floral future was somewhat revealed when the BC Tulip Association suggested the notion of transforming the quarries into sunken gardens. By the end of that decade, the site had been turned over to the Vancouver Park Board for park and recreation purposes, and was dedicated as such by King George VI and his consort, Queen Elizabeth (the mother of Queen Elizabeth II) on their much lauded visit to Vancouver in 1939, as King and Queen of Canada. From that time, Park staff incrementally transformed the overgrown hillsides into Canada\'s first civic arboretum, with a generous donation from the Canadian Pulp and Paper Association. The popular quarry gardens were designed by Park Board Deputy Superintendent Bill Livingstone and were unveiled in the early 1960s.
+  \n \n\n \n  </string>
+    <string name="lynn">
+Lynn Canyon Park is a municipal park in the District of North Vancouver, British Columbia. When the park officially opened in 1912 it was only 12 acres (4.9 ha) in size, but it now encompasses 617 acres (250 ha). The park has many hiking trails of varying length and difficulty. The Baden-Powell Trail passes through the park crossing over the Lynn Canyon Suspension Bridge. Due to its natural landscape many TV series such as Stargate SG-1 and Stargate Atlantis used the area for filming.
+\n \nLynn Creek and Lynn Valley area are named after sapper John Linn, a Royal British Engineer who was granted land at the mouth of the creek in 1871. The Linn family name was often misspelled “Lynn”. By the turn of the century Linn Creek had become Lynn Creek.
+\n \nIn 1910, the McTavish brothers donated 5 hectare of canyon land to the District of North Vancouver. They hoped a park would attract people to their real estate development; the District of North Vancouver accepted the gift and added another 4 hectares. Walter Draycott visited the Lynn Valey on a picnic in 1911 and fell in love with the rugged wilderness. In 1912, he bought 3 lots near the canyon for $600.
+\n \nDesigns for the Lynn Canyon Suspension Bridge were created by civil engineer and architect, C.H. Vogel. The construction of the bridge was completed in 1911. Lynn Canyon Park and the suspension bridge were officially opened at the first Lynn Valley Days celebration on September 14, 1912.
+  \n \n\n \n  </string>
+    <string name="trout">
+Nestled in John Hendry Park at Victoria and 19th is the new Trout Lake Community Centre, a state of the art LEED Gold Facility designed by Walter Francl Architecture Inc. Facility includes: ice rink, gymnasium, 4000 square foot fitness centre, training room, dance studio, 2 large multipurpose rooms, art studio, pottery studio, teen/seniors centre, mat room, music room, licensed preschool, meeting rooms, café and an outdoor performance plaza.
+\n \nA legacy of the 2010 Olympic and Paralympic Winter Games, Trout Lake Community Centre provides a gathering place for community to enjoy recreational activities in a spectacular location. The facility is jointly operated by the Vancouver Board of Parks and Recreation and the Grandview Community Centre Association.
+  \n \n\n \n  </string>
+    <string name="spirit">
+Located on the west side of the city of Vancouver, the Pacific Spirit Regional Park offers a network of trails contained in more than 750 hectares of forest. The trails in the park are popular with local residents and accessible year-round.
+\n \nThe best way to see the park is to view the park map and determine your own route. However, we will follow a common route that will take you on a 3-hour trip through much of the forest.
+\n \nStart the trail at a gate from 16th Avenue next to Camosun Park and walk into the forest. A short distance at the first intersection, turn left and continue along the trail until you come to Imperial Road. Turn right and walk a short distance along the road until you reach a big sign with a map of the park area. Walk past the sign and follow Imperial Trail for five minutes before turning left onto Hemlock Trail. Follow this trail as it passes the Sasamat Trail and eventually reaches a junction with the Clinton Trail. Turn right and follow the Clinton Trail, be careful of mountain bikers and horseback riders who also share the multi-use trails in this section of the park. Once at a clearing, where you can hear the traffic along SW Marine Drive, take the Salish Trail to the right and disappear back into the peaceful forest. This section of the park borders an ecological reserve and signs along the route instruct trail users to stay on the paths and keep their dogs out of the ecologically sensitive creeks. As you walk, soak up the beautiful sights and smells of the Hemlock, Cedar, and Maple Leaf trees.
+\n \nThe Salish Trail again meets up with the Imperial Trail underneath the power lines. Turn left and stay to your left as the trail forks a short distance later. After 10 minutes or so of walking, you reach an intersection with the Sword Fern Trail. Head right and take this trail. In the winter months, this trail can have large sections that are covered in mud.
+  \n \n\n \n  </string>
+    <string name="crab">
+Crab Park is a beautiful off leash dog park right on the portside of vancouver. The park looks over the water, and is always lively with many dogs and dog owners playing and socializing.
+ \n \nIt’s waterfront, has a big beach and offers some of the best views of the downtown skyline and North Shore mountains anywhere in Vancouver.  And it’s practically empty – even on a sunny, summer day.
+\n \nFlat, grassy lawns – big enough for a soccer or football game – stretch to the edge of Burrard Inlet.  A paved walking path skirts the shoreline, edging its way along a sandy dog beach that opens to the water.  There are leafy glades, a playground and a big off-leash area for pets.
+\n \nFor photographers, the views are amazing.  In one direction, you’ve got the Vancouver skyline, stretching all the way from the iconic sails of Canada Place to the UFO-shaped Harbour Centre.   Meanwhile, across Burrard Inlet are unobstructed views of the North Shore, including the Lions peaks, Grouse Mountain and Mount Seymour.   When I visited, there were actually four people painting the stunning scene with easels and oil paints.
+  \n \n\n \n  </string>
+    <string name="george">
+With the weather heating up, Vancouver’s beaches and parks are filling up.
+\n \nWaterfront real estate, especially, is at a premium.  Visit English Bay on a warm afternoon and you’ll be lucky to find a spot to lay your beach blanket.  On holiday weekends, every strip of sand from Spanish Banks on the West Side to Third Beach in Stanley Park is filled with tanned bodies.
+\n \nBut there’s one waterfront park in the heart of Vancouver that you may just have all to yourself: George Wainborn Park in Yaletown.
+\n \nSituated on False Creek, and encircled by gleaming new condo towers, George Wainborn is 2.5 hectares of brilliant green lawn sloping gently to the waterfront.  The seawall stretches along the park’s southern edge.  The vista takes in False Creek, Granville Island and the Art Deco majesty of the Granville Street Bridge.  It’s beautifully maintained, in one of the busiest parts of the city and – amazingly –  never full.
+  \n \n\n \n  </string>
+    <string name="green">
+Harbour Green is a 6.5 acre park that presents both the natural and man-made history of the city of Vancouver. The illustrative elements range from a granite and concrete escarpment wall to mark the natural grade change between downtown core and English Bay, and a series of earth mounds which represent the ocean and the edge of harbour prior to development. Amenities include a parterre, plaza, café, and a recreational spray pool, all connected by a multi-purpose seawall.
+  \n \n\n \n  </string>
+    <string name="david">
+A crooked elbow of landscaped waterfront at the neck of False Creek, Yaletown\'s main green space is sometimes used for free alfresco summer movie screenings. An ideal launch point for a seawall walk along the north bank of False Creek to Science World, you\'ll pass intriguing public artworks and the glass condo towers that transformed the neighborhood in the 1990s.
+\n \nLook out for birdlife along the route and ask the locals about the unexpected 2010 visit from a grey whale in these waters. It brought thousands of disbelieving Vancouverites to the shoreline.
+  \n \n\n \n  </string>
+     <string name="victory">
+Victory Square is a park in Vancouver, British Columbia, Canada. The square is bordered by West Hastings Street to the northeast, West Pender Street to the southwest, Cambie Street to the southeast, and Hamilton Street to the northwest. The term is also used to refer to the neighbourhood immediately surrounding the square.
+\n \nVictory Square was at one time the grounds of the city\'s provincial courthouse, which was torn down in 1911–13 when the new Francis Rattenbury-designed courthouse on Georgia Street was opened (now the Vancouver Art Gallery). The location had significance when it was chosen, as it stands at the intersection of the old Granville townsite (aka Gastown) and the CPR Townsite, which was the downtown-designated land grant obtained by the CPR as part of the deal to locate the terminus and thereby found the city (the corner of Hastings and Hamilton is the northern tip of the CPR Townsite). An area of 0.9 acres (3,600 m2) out of the 480 acres (1.9 km2) allotted to the CPR was held aside as "Government Square" on February 13, 1886. The southwest corner of Hamilton and Hastings Streets is where L. A. Hamilton drove the first survey stake to commence laying out the street system for the city.
+\n \nBoyd and Clendenning were contracted by the CPR to begin felling the forest at a rate of $26 per acre and an extra $2 per acre for lopping off large branches. A tangled mass soon built up to 20 feet (6.1 m) thick that was to be the kindling for the great fire that leveled the townsite.
+  \n \n\n \n  </string>
+
+
+</resources>

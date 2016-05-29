@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- the parent view - provides the gray listfragment background color -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center_vertical"
+    android:clipToPadding="false"
+    android:paddingRight="10dp"
+    android:paddingLeft="10dp"
+
+    android:foreground="?android:selectableItemBackground">
+    <!-- android:background="@color/colorSecondary" -->
+
+
+    <!-- the innner view - provides the white rectangle -->
+    <RelativeLayout
+
+        android:layout_width="fill_parent"
+
+        android:layout_height="80dp"
+        android:id="@+id/relativeLayout2"
+
+        >
+
+        <!-- the icon view -->
+        <ImageView android:id="@+id/ivIcon"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:padding="5dp"
+
+            android:scaleType="fitXY"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:transitionName="image"
+
+            android:src="@drawable/ic_local_see_black_24dp" />
+
+        <!-- the container view for the title and description -->
+        <RelativeLayout android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/ivIcon"
+            android:layout_centerVertical="true"
+            android:id="@+id/relativeLayout"
+            >
+
+            <!-- the title view -->
+            <TextView android:id="@+id/tvTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="@android:style/TextAppearance.Medium"
+                android:text="Title"
+
+                style="?android:textAppearanceMedium"
+
+                android:textColor="#000000" />
+
+            <!-- the description view -->
+            <TextView android:id="@+id/tvCity"
+                android:layout_below="@id/tvTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="@android:style/TextAppearance.Small"
+                android:text="description"
+
+                style="?android:textAppearanceMedium"
+                />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Location"
+            android:id="@+id/smallViewID"
+            android:paddingRight="5dp"
+
+            style="?android:textAppearanceSmall"
+            android:layout_alignBottom="@+id/relativeLayout"
+            android:layout_alignParentEnd="true" />
+
+    </RelativeLayout>
+<!--
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="?attr/colorPrimary"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignBottom="@+id/relativeLayout2">
+
+    </GridLayout>
+-->
+</RelativeLayout>
