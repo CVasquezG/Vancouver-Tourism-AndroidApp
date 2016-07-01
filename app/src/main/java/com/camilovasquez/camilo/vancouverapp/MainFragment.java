@@ -11,8 +11,11 @@ import android.view.View;
 import android.view.ViewGroup;
 
 /**
- * A simple {@link Fragment} subclass.
+Fragment that displays the tablayout for Attractions
  */
+
+
+
 public class MainFragment extends Fragment {
 
 

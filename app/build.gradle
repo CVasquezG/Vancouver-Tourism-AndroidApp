@@ -5,7 +5,7 @@ android {
     buildToolsVersion '23.0.2'
     defaultConfig {
         applicationId "com.camilovasquez.camilo.vancouverapp"
-        minSdkVersion 19
+        minSdkVersion 23
         targetSdkVersion 23
         versionCode 4
         versionName "1.03"
